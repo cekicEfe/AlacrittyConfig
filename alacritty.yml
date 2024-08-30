@@ -8,18 +8,21 @@ font:
   italic:
     family: monospace
     style: Italic
-  size: 6.0
+  size: 5.5
 
 # Window configuration
 window:
-  opacity: 0.35 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
+  opacity: 0.75 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
   decorations: full  # You can change to 'full' if you want window decorations
 
 colors:
   primary:
-    background: '0x0f0000'  # Background color. This is ignored if 'background_opacity' is set.
-    foreground: '0xffffff'  # Foreground color
+    background: '0x0F0000'  # Background color. This is ignored if 'background_opacity' is set.
+    foreground: '0xeee8d5'  # Foreground color
+    dim_foregound: '0xeee8d5'
+    bright_foreground: '0xfdf6e3'
 
 scrolling:
   history: 10000
   multiplier: 3
+
