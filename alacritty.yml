@@ -8,11 +8,11 @@ font:
   italic:
     family: monospace
     style: Italic
-  size: 5.5
+  size: 6.5
 
 # Window configuration
 window:
-  opacity: 0.75 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
+  opacity: 0.85 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
   decorations: full  # You can change to 'full' if you want window decorations
 
 colors:
