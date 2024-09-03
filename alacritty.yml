@@ -12,7 +12,7 @@ font:
 
 # Window configuration
 window:
-  opacity: 0.75 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
+  opacity: 0.65 # Adjust this value between 0.0 (fully transparent) and 1.0 (fully opaque)
   decorations: full  # You can change to 'full' if you want window decorations
 
 colors:
